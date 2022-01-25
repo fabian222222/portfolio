@@ -1,0 +1,4 @@
+.icon_element:hover::after, .icon_element:hover::before, .icon_element:hover .icon {
+    color: white !important;
+    background-color: red !important;
+}
