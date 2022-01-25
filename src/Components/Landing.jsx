@@ -39,17 +39,17 @@ const Landing = () => {
                     <div>
                         <UlSocial>
                             <SocialElement className='icon_element'>
-                                <a href="#">
+                                <a href="a">
                                     <FontAwesomeIcon className='icon' style={{padding:"5px", position:"absolute",top:"0",left:"0",width:"100%",height:"100%",display:"flex",justifyContent:"center",alignItems:"center",background: "#333",color:"rgba(255,255,255,0.2)"}} icon={faGithub} />
                                 </a>
                             </SocialElement>
                             <SocialElement>
-                                <a href="#">
+                                <a href="a">
                                     <FontAwesomeIcon style={{padding:"5px", position:"absolute",top:"0",left:"0",width:"100%",height:"100%",display:"flex",justifyContent:"center",alignItems:"center",background: "#333",color:"rgba(255,255,255,0.2)",fontSize:"15px"}} icon={faTwitter} />
                                 </a>
                             </SocialElement>
                             <SocialElement>
-                                <a href="#">
+                                <a href="a">
                                     <FontAwesomeIcon style={{padding:"5px",  position:"absolute",top:"0",left:"0",width:"100%",height:"100%",display:"flex",justifyContent:"center",alignItems:"center",background: "#333",color:"rgba(255,255,255,0.2)",fontSize:"15px"}} icon={faTwitter} />
                                 </a>
                             </SocialElement>

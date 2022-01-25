@@ -16,7 +16,7 @@ const Project = () => {
                         <p>language</p>
                         <p>stack</p>
                         <p>description</p>
-                        <a href=""><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
+                        <a href="a"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
                     </InformationContainer>
                     <ImageContainer>
                         <Image src='assets/image/project_illu.jpg' alt="" />
@@ -28,7 +28,7 @@ const Project = () => {
                         <p>language</p>
                         <p>stack</p>
                         <p>description</p>
-                        <a href=""><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
+                        <a href="a"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
                     </InformationContainer>
                     <ImageContainer>
                         <Image src='assets/image/project_illu.jpg' alt="" />
@@ -40,7 +40,7 @@ const Project = () => {
                         <p>language</p>
                         <p>stack</p>
                         <p>description</p>
-                        <a href=""><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
+                        <a href="a"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
                     </InformationContainer>
                     <ImageContainer>
                         <Image src='assets/image/project_illu.jpg' alt="" />
@@ -52,7 +52,7 @@ const Project = () => {
                         <p>language</p>
                         <p>stack</p>
                         <p>description</p>
-                        <a href=""><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
+                        <a href="a"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
                     </InformationContainer>
                     <ImageContainer>
                         <Image src='assets/image/project_illu.jpg' alt="" />
