@@ -64,7 +64,7 @@ const Project = () => {
 };
 
 const Container = styled.div`
-    padding:100px 50px;
+    padding:100px 80px;
 `
 const ProjectContainer = styled.div``
 const TitleContainer = styled.div``

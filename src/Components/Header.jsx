@@ -41,7 +41,7 @@ const Header = () => {
 };
 
 const Container = styled.div`
-    padding:20px 50px;
+    padding:20px 80px;
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -51,6 +51,7 @@ const Logo = styled.h1`
     font-family:"Hazukaze";
     font-size:70px;
     line-height:80%;
+    color:#672AE9;
 `
 const MenuList = styled.ul`
     display:flex;
@@ -60,7 +61,7 @@ const MenuElement = styled.li`
     margin-left:20px;
 `
 const MenuLink = styled.a`
-    color:white;
+    color: white;
     text-decoration:none;
     font-family:"montserrat"
 `

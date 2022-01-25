@@ -10,7 +10,7 @@ import Passion from '../Components/Passion';
 
 const Portfolio = () => {
     return (
-        <PageContainer>
+        <PageContainer style={{fontFamily:"Montserrat"}}>
             <Header></Header>
             <Landing></Landing>
             <About></About>
@@ -23,7 +23,7 @@ const Portfolio = () => {
 };
 
 const PageContainer = styled.div`
-    background-color : #0A0A0D;
+    background-color : #191922;
     width : 100vw;
     min-height : 100vh;
     color:white;

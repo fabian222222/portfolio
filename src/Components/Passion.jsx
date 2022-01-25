@@ -23,7 +23,7 @@ const Passion = () => {
 };
 
 const Container = styled.div`
-    padding:100px 50px;
+    padding:100px 80px;
 `
 const TitleContainer = styled.div`
     margin-bottom:50px;

@@ -10,21 +10,14 @@ const About = () => {
             <InformationContainer>
                 <Description>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae 
-                        quas vel sint commodi repudiandae consequuntur voluptatum laborum
-                        numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-                        optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
-                        obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
-                        nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
-                        tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
-                        quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
+                        Actuellement étudiant à Epitech Digital en développement web. Je suis un gamer depuis toujours et j'ai grandit dans ce milieu assez tech, j'ai donc toujours été proche de ce domaine. Après un BAC S, c'est sans hésitation   que j'ai décidé de me diriger vers le web. 
                     </p>
                 </Description>
                 <Card>
-                    <p>Nom :</p>
-                    <p>Mail :</p>
-                    <p>Localisation :</p>
-                    <p>Téléphone :</p>
+                    <p>Nom : Zuo Fabian</p>
+                    <p>Mail : Fabianzuo@gmail.com</p>
+                    <p>Localisation : Paris, France</p>
+                    <p>Téléphone : 06 18 25 32 62</p>
                 </Card>
             </InformationContainer>
             <Cv>CV download</Cv>
@@ -33,7 +26,7 @@ const About = () => {
 };
 
 const Container = styled.div`
-    padding:100px 50px;
+    padding:100px 80px;
 `
 const SectionTitle = styled.h1`
     position:relative;
