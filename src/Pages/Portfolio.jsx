@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components'
+import Header from '../Components/Header';
 import Landing from '../Components/Landing';
 import About from '../Components/About';
 import Skills from '../Components/Skills';
@@ -10,6 +11,7 @@ import Passion from '../Components/Passion';
 const Portfolio = () => {
     return (
         <PageContainer>
+            <Header></Header>
             <Landing></Landing>
             <About></About>
             <Skills></Skills>
